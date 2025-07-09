@@ -5745,4 +5745,8 @@ Project Four Css
 .project-details__previous-next {
     display: none !important;
 }
+
+ .count-text {
+    display: none !important;
+  }
 }
