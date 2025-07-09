@@ -5740,3 +5740,9 @@ Project Four Css
     transition-delay: 110Ms;
   color: var(--thm-primary);
 }
+
+@media (max-width: 768px) {
+.project-details__previous-next {
+    display: none !important;
+}
+}
