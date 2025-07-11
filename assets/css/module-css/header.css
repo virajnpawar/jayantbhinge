@@ -543,7 +543,8 @@
     transition: all 0.3s ease-in-out;
 }
 
-.navbar-wrap ul li .sub-menu li a:hover {
+.navbar-wrap ul li .sub-menu li a:hover 
+{
     transform: translateX(10px);
     color: var(--thm-white);
     background: var(--thm-primary);
